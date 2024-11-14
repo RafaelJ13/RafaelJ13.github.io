@@ -78,7 +78,7 @@ a {
   height: 100%;
   min-height: 900px;
   overflow: hidden;
-  z-index: 1;
+  z-index: 3;
 }
 
 #comets i {
@@ -89,7 +89,7 @@ a {
   border-radius: 5% 40% 70%;
   box-shadow: inset 0px 0px 1px #070707;
   border: 1px solid #333;
-  z-index: 1;
+  z-index: 3;
   background-color: #fff;
   opacity: 0.7;
   -webkit-animation: falling 10s 0s infinite;
